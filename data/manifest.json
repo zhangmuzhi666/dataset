@@ -19,17 +19,17 @@
     },
      {
       "filename": "adv_trained.1.zip",
-      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/adv_trained.zip",
+      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/adv_trained.1.zip",
       "sha256": "sha256:c0b4d9a7083643c6fbbcb66a60985caf3969a8b152d3c6876ff498864ec555bb"
     },
     {
       "filename": "natural.1.zip",
-      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/natural.zip",
+      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/natural.1.zip",
       "sha256": "sha256:3e4856e447628207f75034a6e5d425dcb2eadca221253818f7cce3c9def296e9"
     },
     {
       "filename": "secret.1.zip",
-      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/secret.zip",
+      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/secret.1.zip",
       "sha256": "sha256:14eea09c72092db5c2eb5e34cd105974f42569281d2f34826316e356d057f96d"
     }
 
