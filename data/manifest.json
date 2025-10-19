@@ -1,0 +1,22 @@
+{
+  "owner_repo": "zhangmuzhi666/dataset",
+  "target_dir": "dataset",
+  "artifacts": [
+    {
+      "filename": "adv_trained.zip",
+      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/adv_trained.zip",
+      "sha256": "sha256:996384ac78ec749673e43cb823b9fb837a4da8d529ed2ef98e8d94053529fa5d"
+    },
+    {
+      "filename": "natural.zip",
+      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/natural.zip",
+      "sha256": "sha256:6af2addfc5bc75e3b16b8654c907a8dfaebeffc600871115460063ade1cd1ee7"
+    },
+    {
+      "filename": "secret.zip",
+      "url": "https://github.com/zhangmuzhi666/dataset/releases/latest/download/secret.zip",
+      "sha256": "sha256:555be6e892372599380c9da5d5f9802f9cbd098be8a47d24d96937a002305fd4"
+    }
+  ],
+  "auto_unzip": true
+}
