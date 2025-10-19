@@ -1,0 +1,21 @@
+# venv / 临时
+.venv/
+.env/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# 私密配置
+config.json
+
+# 大文件一律忽略：真实文件放 Releases，用脚本下载
+dataset/
+*.zip
+*.pt
+*.onnx
+*.tar
+*.tar.gz
+*.7z
+*.ckpt
+*.npz
